@@ -1,9 +1,3 @@
-<!DOCTYPE html>
-<html>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Videregående programmering</title>
-
-<xmp theme="united" style="display:none;">
 # Videregående programmering 
 Velkommen til dette kursus som har titlen videregående programmering. 
 
@@ -25,13 +19,9 @@ Til hver uge vil der være knyttet:
 ## Materiale og information
 Der er link til denne side fra [Moodle](https://cphbusiness.mrooms.net/course/view.php?id=551), så du kan altid komme tilbage hertil fra Moodle.
 
-## [Link til kursus oversigt](overview.html)
+## [Link til kursus oversigt](overview.md)
  
 ## Eksamen
 For at kunne gå til eksamen skal du lave et "eksamensprojekt", som er en større opgave. Du er mere end velkommen til at komme op med en opgave selv, men ellers stiller jeg en standard opgave som bringer dig rundt i pensum.
 
 Selve eksamen er mundtlig 30 min fra du kommer ind og sætter computer op til jeg og censor for voteret og du får din karakter. Ved eksamen starter du med at præsentere din opgave (omkring 10 minutter), hvorefter samtalen kan bevæge sig ud i resten af pensum.
-</xmp>
-
-<script src="https://kaspercphbusiness.github.io/advprog/strapdown/strapdown.js"></script>
-</html>

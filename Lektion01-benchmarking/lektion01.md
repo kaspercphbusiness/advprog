@@ -1,9 +1,3 @@
-<!DOCTYPE html>
-<html>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Uge 1</title>
-
-<xmp theme="united" style="display:none;">
 # Uge 1 - velkommen & tidstagning
 Vi kommer til at bruge de næste gange på algoritmer og deres performance. 
 Normalt i datalogien bruger man et matematisk begreb omkring performance for at kunne sammenligne på tværs af computere og hardware. 
@@ -91,10 +85,3 @@ Som led i løsningen på denne opgave skal der som minimum løses følgende (der
 **opg 2.** Hvordan afhænger array allokeringen af størrelsen på arrayet? 
 
 **opg 3.** Kommer der nogle bemærkelsesværdige ændringer i tidsforbruget når det bliver meget store arrays (når man begynder at allokere nær din computers interne lager størrelse).
-
-
-
-</xmp>
-
-<script src="https://kaspercphbusiness.github.io/advprog/strapdown/strapdown.js"></script>
-</html>
