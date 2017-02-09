@@ -37,6 +37,8 @@ Disse øvelser er lavet som en række spørgsmål vi gerne vil have svar på.
 
 3. Exception handling koster virkelig meget siger nogle. Er det tilfældet? Er det dyrt også hvis der ikke kastes en exception?
 
+[Delt googlesheet](https://docs.google.com/document/d/1kKx3C0QdTLDLu-IkZZWWQfkYFaQGHFeAgWpuwRzvbik/edit?usp=sharing)
+
 ## Øvelser til næste gang
 Vi kommer senere i semesteret (lektion 4) til at arbejde med grafer og labyrinter. Opgaven til næste gang er en opgave der går ud på at læse labyrinter ind fra en fil. Opgaven har to formål. Dels forventer jeg at I er på et niveau hvor dette ikke burde være et problem, dels skal vi alligevel bruge det senere. Og så er der muligheder for at måle tid på dette. 
 
