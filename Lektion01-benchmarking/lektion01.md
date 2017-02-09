@@ -73,6 +73,8 @@ Man kan bevæge sig op,ned, højre, venstre. Et +,- og | markerer en væg, mens 
 Den første linje siger hvor mange tegn labyrinten er høj og bred. 
 (Denne labyrint er lavet med [DJ Delorie's generator](http://www.delorie.com/game-room/mazes/genmaze.cgi)).
 
+Det viser sig at I ikke har arbejdet med filer i C#. [Denne hjemmeside forklarer det basale](http://zetcode.com/articles/csharpreadtext/), specielt har i nok brug for at gå ned til "Using StreamReader's ReadLine" eksemplet.
+
 #### Hvilke overvejelser gør du dig når du står over for denne opgave?
 Prøv at finde et stykke papir frem og skriv ned hvad du skal gøre for at programmere dette. Jeg vil gerne vi diskuterer denne del på klassen næste gang. Det er nødvendigt at du derfor skriver det ned **før** du går i gang med at løse opgaven.
 
