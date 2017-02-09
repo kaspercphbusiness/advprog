@@ -21,7 +21,7 @@ Planen for denne første gang er:
 ## Læsestof
 Det primære læsestof er noten om tidstagning:
 
-- [Microbenchmarks in Java and C#](SestoftMicrobenchmarking.pdf) af Peter Sestoft. De flese eksempler i selve noten er skrevet i Java, men det vedlagte zip-fil er i C#.  
+- [Microbenchmarks in Java and C#](SestoftMicrobenchmarking.pdf) af Peter Sestoft. De flese eksempler i selve noten er skrevet i Java, men den [vedlagte zip-fil](benchmarks-csharp.zip) er i C#.  
 
 Der er nogle generelle pointer i slutningen af noten det er godt at nå til (**specielt kapitel 7, 8 og 11**), så i *første gennemlæsning* vil jeg foreslå at du springer følgende over:
 
