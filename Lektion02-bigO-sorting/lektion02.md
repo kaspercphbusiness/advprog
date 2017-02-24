@@ -3,6 +3,9 @@ Vi skal denne gang kikke på sortering og algoritmers kompleksitet.
 
 Men vi skal også bruge lidt tid i begyndelsen af sessionen til at samle op på opgaven fra sidst. Specielt skal vi snakke om hvordan man generelt griber programmeringsopgaver an.
 
+### [Noter fra taven](KaspersNoter02.pdf)
+
+
 ## Forberedelse
 ### I dag skal vi bruge papir og pen (ud over computer)
 Som forberedelse til idag vil jeg foreslå at I kikker på den første af noterne for at prøve at forstå store O notationen før vi mødes. 
