@@ -45,22 +45,22 @@ interface IVPDictionary {// VP for videregående programmering
 ```
 Delopgaverne nedenfor er markeret med stjerner. En stjerne er det du bør være i stand til for at bestå, to er en middel løsning, og de trestjernene begynder at være top løsninger.
 
-###Opgave 1. *
+### Opgave 1. *
 Den simpleste løsning er blot at lave et array af key-value par og ikke overveje effektivitet. Sørg for at lave en main der prøver din implementation af med et par eksempler.
 
-###Opgave 2. *
+### Opgave 2. *
 Fortsæt med løsningen fra opgave 1, men udvid nu sådan at arrayet udvides når der ikke længere er plads i arrayet til ny elemenenter. _Bemærk: man kan **ikke** udvide et array, det man gør er at man allokerer et nyt og størrer, og så kopierer alle elementer fra det gamle over i det nye._
 
 Du skal sikrer dig at 
 
-###Opgave 3. **
+### Opgave 3. **
 Lav en løsning der bruger strings indbyggede hash funktion `GetHashCode()` til at få et heltal der kan bruges til at beslutte hvilken kurv (Bucket) key-value pair skal gemmes i. 
 
 Igen, lad være med at håndtere at at arrayet kan løbe fuldt i første omgang.
 
-###Opgave 4. ***
+### Opgave 4. ***
 Udvid opgave 3 til også at håndtere at arrayet løber fuldt. Det normale er at man allokerer et nyt array når det gamle er omkring 75% fuld.
 
-###Opageve 5. ***
+### Opageve 5. ***
 Når man i opgave 4 skal reallokere skal man beregne alle hash værdierne igen (kalde `GetHashCode()`igen). Kan man lave en løsning hvor dette ikke er nødvendigt?
 
