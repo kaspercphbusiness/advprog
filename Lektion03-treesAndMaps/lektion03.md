@@ -52,7 +52,6 @@ Den simpleste løsning er blot at lave et array af key-value par og ikke overvej
 ### Opgave 2. *
 Fortsæt med løsningen fra opgave 1, men udvid nu sådan at arrayet udvides når der ikke længere er plads i arrayet til ny elemenenter. _Bemærk: man kan **ikke** udvide et array, det man gør er at man allokerer et nyt og størrer, og så kopierer alle elementer fra det gamle over i det nye._
 
-Du skal sikrer dig at 
 
 ### Opgave 3. **
 Lav en løsning der bruger strings indbyggede hash funktion `GetHashCode()` til at få et heltal der kan bruges til at beslutte hvilken kurv (Bucket) key-value pair skal gemmes i. 
