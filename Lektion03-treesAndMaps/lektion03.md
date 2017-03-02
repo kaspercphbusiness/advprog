@@ -43,6 +43,7 @@ interface IVPDictionary {// VP for videregående programmering
 	int  set(String key, int value);
 }
 ```
+
 Delopgaverne nedenfor er markeret med stjerner. En stjerne er det du bør være i stand til for at bestå, to er en middel løsning, og de trestjernene begynder at være top løsninger.
 
 ### Opgave 1. *
