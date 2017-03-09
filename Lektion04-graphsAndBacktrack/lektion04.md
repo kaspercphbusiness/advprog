@@ -65,8 +65,11 @@ Bemærk at:
 Dybde først algoritmen skal bruge nogle informationer for hvert felt F:
 
 * Det skal være muligt at markere at hvilke felter der allerede er besøgt (visited). Jeg vil anbefale at man markerer besøgte felter med "." så man kan skrive labyrintet ud og se hvor den har besøgt.
+
 * Det skal være muligt at finde de nabo felter der er åbne (har mellemrums tegn). Her kan jeg anbefale at man undersøger dem i en eller anden fast rækkefølge - f.eks. ovenover, tilhøjre, nedenunder og tilvenstre.
-* Det skal være muligt at lave stakken som algoritmen benytter sig af. De den har på stakken er de felter der allerede er en del af vores foreløbige sti. Felter er jo angivet med koordinater (søjle, række). Du får derfor brug for en lille hjælpe klasse "Felt" til at huske koordinater.
+
+* Det skal være muligt at lave stakken som algoritmen benytter sig af. Det den har på stakken er de felter der allerede er en del af vores foreløbige sti. Felter er jo angivet med koordinater (søjle, række). Du får derfor brug for en lille hjælpe klasse "Felt" til at huske koordinater.
+
 * Normalt slutter algoritmen først når vi har besøgt alle knuder man kan nå ud fra start knuden. Vi er dog ude på at finde en vej til slut, så når man træffer på "E" i nederste højre hjørne er man færdig og kan skrive resultatet ud.
 
 

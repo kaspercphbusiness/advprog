@@ -1,0 +1,6 @@
+C:\Users\Lene Lehrmann\Documents\Visual Studio 2015\Projects\opgave uge 3\opgave uge 3\bin\Debug\opgave uge 3.exe.config
+C:\Users\Lene Lehrmann\Documents\Visual Studio 2015\Projects\opgave uge 3\opgave uge 3\bin\Debug\opgave uge 3.exe
+C:\Users\Lene Lehrmann\Documents\Visual Studio 2015\Projects\opgave uge 3\opgave uge 3\bin\Debug\opgave uge 3.pdb
+C:\Users\Lene Lehrmann\Documents\Visual Studio 2015\Projects\opgave uge 3\opgave uge 3\obj\Debug\opgave uge 3.csprojResolveAssemblyReference.cache
+C:\Users\Lene Lehrmann\Documents\Visual Studio 2015\Projects\opgave uge 3\opgave uge 3\obj\Debug\opgave uge 3.exe
+C:\Users\Lene Lehrmann\Documents\Visual Studio 2015\Projects\opgave uge 3\opgave uge 3\obj\Debug\opgave uge 3.pdb

@@ -1,0 +1,8 @@
+/Users/kasper/OneDrive - EFIF/gits/advprog/tmp/opgave uge 3/opgave uge 3/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
+/Users/kasper/OneDrive - EFIF/gits/advprog/tmp/opgave uge 3/opgave uge 3/bin/Debug/opgave uge 3.exe.config
+/Users/kasper/OneDrive - EFIF/gits/advprog/tmp/opgave uge 3/opgave uge 3/bin/Debug/opgave uge 3.exe.mdb
+/Users/kasper/OneDrive - EFIF/gits/advprog/tmp/opgave uge 3/opgave uge 3/bin/Debug/opgave uge 3.pdb
+/Users/kasper/OneDrive - EFIF/gits/advprog/tmp/opgave uge 3/opgave uge 3/bin/Debug/opgave uge 3.exe
+/Users/kasper/OneDrive - EFIF/gits/advprog/tmp/opgave uge 3/opgave uge 3/obj/Debug/opgave uge 3.exe
+/Users/kasper/OneDrive - EFIF/gits/advprog/tmp/opgave uge 3/opgave uge 3/obj/Debug/opgave uge 3.exe.mdb
+/Users/kasper/OneDrive - EFIF/gits/advprog/tmp/opgave uge 3/opgave uge 3/obj/Debug/opgave uge 3.pdb

@@ -35,6 +35,10 @@ resulting tree will have the minimal height possible.
 ## Øvelser til næste gang
 Vi skal lave en skal lave en hjemmelavet HashMap (kaldet Dictionary i C#).
 
+### [Mit forslag til en løsning (indstat torsdag formiddag)](ugeopgave3koe.zip)
+
+<br>
+
 ```csharp
 interface IVPDictionary {// VP for videregående programmering
 	bool isEmpty();
