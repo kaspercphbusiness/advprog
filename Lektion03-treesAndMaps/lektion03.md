@@ -35,7 +35,10 @@ resulting tree will have the minimal height possible.
 ## Øvelser til næste gang
 Vi skal lave en skal lave en hjemmelavet HashMap (kaldet Dictionary i C#).
 
-### [Mit forslag til en løsning (indstat torsdag formiddag)](ugeopgave3koe.zip)
+### [Mit forslag til en løsning (rettet til efter torsdag aften)](https://github.com/cphbusinessAUVidrProg/uge3opgaveKoe)
+Løsningen er på "github". Det er et sted at dele kode som er blevet endog meget populært de sidste år.
+
+Den simpleste måde at få denne kode på er ved at klikke den grønne knap i højre side der hedder "Clone or download", og derefter vælge "Download ZIP".
 
 <br>
 
