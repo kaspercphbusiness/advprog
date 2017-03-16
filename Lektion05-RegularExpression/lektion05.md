@@ -34,6 +34,16 @@ It is my plan that:
 6. We will convert a few regular expressions into finate state machines and implement them in C#
 7. We will look at some other usages of state machines.
 
+## Exercises 
+1. Write a pattern that will match dates on the form 25-may-2016. It should accept the month to be capitalized or not, and the date can be with or without a leading zero.
+2. Write a pattern that will match dates on the form 2016-05-25.
+1. Write a C# program that will do the above two
+1. Write a C# program which will replace all occourances of the first format with the last.
+<hr>
+1. Rewrite the first regular expression above to a state machine.
+2. Implement this statemachine in C#.
+3. Extend this program to solve task 4 above
+
 ## Exercise for next week
 Write a regular expression that will recognize email addresses from Denmark.
  
