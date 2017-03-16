@@ -35,4 +35,16 @@ It is my plan that:
 7. We will look at some other usages of state machines.
 
 ## Exercise for next week
-(Will come tuesday this week)
+Write a regular expression that will recognize email addresses from Denmark.
+ 
+Make a series of test cases. Examine which formats email addresses can have, to cover as broadly as possible.
+
+Rewrite the regular expression to a state machine.
+
+### Part 1
+Implement this state machine using a switch statement in a method that gets a string containg the email address to be matcched as a parameter. The method must return a boolean being true if the parameter did match the regular expression state machine implements.
+
+### Part 2
+Expand method so that it returns a text string name of mail provider - `kaj.hansen @ gillelejefisk.dk` must therefore return` gillelejefisk`.
+
+It should return null if there is no match
