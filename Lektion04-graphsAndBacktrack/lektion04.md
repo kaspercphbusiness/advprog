@@ -29,7 +29,7 @@ Der er start i koordinat 0.0. Reelt sker der kun noget sjovt i koordinat 0,2.
 ## Øvelser til næste gang
 Øvelsen til næste gang går ud på at lave en dybde først algoritme der finder vej i et labyrint.
 
-### [Kode som blev lavet på klassen](https://github.com/cphbusinessAUVidrProg/uge4opgaveKoe)
+### [Kasper's forslag til løsning](https://github.com/cphbusinessAUVidrProg/uge4opgaveKoe)
 
 Fra første uge har vi et stykke program der kan læse et labyrint fra en fil. Labyrinten er som dengang på formen:
 
