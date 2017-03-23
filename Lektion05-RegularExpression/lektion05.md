@@ -51,6 +51,8 @@ Make a series of test cases. Examine which formats email addresses can have, to 
 
 Rewrite the regular expression to a state machine.
 
+[Shared googlesheet.](https://docs.google.com/document/d/1kKx3C0QdTLDLu-IkZZWWQfkYFaQGHFeAgWpuwRzvbik/edit#heading=h.m9j926nb3xt4)
+
 ### Part 1
 Implement this state machine using a switch statement in a method that gets a string containg the email address to be matcched as a parameter. The method must return a boolean being true if the parameter did match the regular expression state machine implements.
 
