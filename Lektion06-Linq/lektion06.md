@@ -1,12 +1,14 @@
 # Lambda & Linq
 Emnet denne gang er linq, og dermed også lambda udtryk og delegates.
 
+**Opdateret fredag 24 mar: [link til klasse noter](notes.pdf)**
+
 ## Forberedelse
 Jeg vil foreslå at I som forberedelse arbejder jer gennem denne tutorial: http://www.tutorialsteacher.com/linq/linq-tutorials. Jeg kan specielt godt lide denne site da der er en del eksempler som kan prøves direkte på siden. Det giver mulighed for at prøve små ændringer i eksemplerne.
 
 Der er en del elementer på den side, og der er en næsten endeløs række af operatorer i linq. Jeg vil foreslå at I fokuserer på:
 
-- [`from`](http://www.tutorialsteacher.com/linq/linq-query-syntax), [`where`](http://www.tutorialsteacher.com/linq/linq-filtering-operators-where), [`where`](http://www.tutorialsteacher.com/linq/linq-projection-operators). Læg specielt mærke til den fleksibilitet der er i select operatoren.
+- [`from`](http://www.tutorialsteacher.com/linq/linq-query-syntax), [`where`](http://www.tutorialsteacher.com/linq/linq-filtering-operators-where), [`select`](http://www.tutorialsteacher.com/linq/linq-projection-operators). Læg specielt mærke til den fleksibilitet der er i select operatoren.
 - `Sum`, `Count`, `Average`er alle forholdsvis lige til, du kan nøjes med at kikke på [`Sum`](http://www.tutorialsteacher.com/linq/linq-aggregation-operator-sum).
 - Sum, Count og Average er eksempler på en mere generel ting der kaldes [Aggregate](http://www.tutorialsteacher.com/linq/linq-aggregation-operator-aggregate). Den er også god at forstå.
 - [`groupby`](http://www.tutorialsteacher.com/linq/linq-grouping-operator-groupby-tolookup) er meget kraffuld, men kan være en smule sær indtil man forstår den.
