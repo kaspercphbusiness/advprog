@@ -29,6 +29,12 @@ Når I undervejs får behov for at slå design mønstrene op kan jeg anbefale:
 Jeg har forsøgt mig med en [kort note om disse emner](observerNote.md).
 
 ## Øvelser på klassen
+<hr>
+Jeg gennemgik denne på klassen den 30 marts. 
+###[Min løsning er her](https://github.com/cphbusinessAUVidrProg/uge7RegExFromClass). 
+Man kan som tidligere downloade den som zip fil ved den store grønne knap i højre side.
+
+<hr>
 For at prøve at bruge observer og mediator mønstrene i praksis skal vi prøve at lave et forms program hvor man kan fjerne og tilføje event handlere.
 
 For at kunne dette skal vi dog først have et program. Et ret simpelt forms program er illustreret her:
