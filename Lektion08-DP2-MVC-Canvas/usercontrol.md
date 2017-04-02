@@ -45,7 +45,7 @@ In the Appearance category add a method under "Paint".
 In the MazeControl you should now get a method:
 
 ```csharp
-private void mazeControl1_Paint(object sender, PaintEventArgs e) {	e.Graphics.DrawEllipse()// Continue your code here}
+private void mazeControl1_PaintMe(object sender, PaintEventArgs e) {	e.Graphics.DrawEllipse()// Continue your code here}
 ```
 ## Interlude - Graphics and Pen
 The principle of drawing in windows forms is that one draws on an object of type **Graphics** using an object of type **Pen**. The Graphics is roughly the piece of the screen which is the User Control.
