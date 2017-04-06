@@ -22,14 +22,25 @@ Denne [note om "Drawing graphics in C#"](Drawing Graphics in C Sharp - Techotopi
 
 Jeg fandt ikke en klar note om hvordan man laver en usercontrol som kan bruges til tegninger. Jeg har derfor lavet en 
 
-* [kort note om tegning på usercontrol](usercontrol.md). Kildeteksten til projektet der bruges som eksempel er her (**kommer inden torsdag aften**)
+* [kort note om tegning på usercontrol](usercontrol.md). Kildeteksten til projektet der bruges som eksempel er her <https://github.com/cphbusinessAUVidrProg/uge8MazeWithGUIDemo>
 
 
 ## Øvelser på klassen
 Lave en UserControl der kan håndtere og huske 3 cirkler. For at få på plads at der er skal være en "model", at graphics genskrives som svar på 
    
 
-## Øvelser til næste gang
+## Øvelser til næste gang (som bliver om 3 uger)
 Dette er er stor opgave og kan indgå som en del i et samlet projekt om håndtering af labyrinter (altså som del af den endelige projekt).
+
+
+Grund ideen er at der skal laves et program der kan læse og skrive labyrinter fra filer. Det skal være muligt at rette labyrinterne i programmet via et grafisk interface (en usercontrol). Endvidere skal man kunne bede programmet om at løse labyrintet og vise løsningen på skærmen.
+
+Rimelige udvidelser kunne være (men ok blot med ovenstående):
+
+- Man kan oprette labyrinter i programmet, altså ikke kun læse dem fra fil. Her skal der evt. være en måde at angive størrelsen.
+- Man kan blive bedt om hvilken fil der skal indlæses, og evt også vælge hvilken fil der skal skrives til
+- Man kan angive begyndelses og slut sted (altså ikke lade dem være fast i øverste venstre hjørne og nederste højre hjørne)
+- Man kan eksperimentere med finde alle veje igennem labyrintet
+
 
 
