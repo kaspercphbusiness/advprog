@@ -27,7 +27,8 @@ Jeg fandt ikke en klar note om hvordan man laver en usercontrol som kan bruges t
 
 ## Øvelser på klassen
 Lave en UserControl der kan håndtere og huske 3 cirkler. For at få på plads at der er skal være en "model", at graphics genskrives som svar på 
-   
+
+[Dette er det program der blev snakket om på klassen.](https://github.com/cphbusinessAUVidrProg/uge8ThreeDots)   
 
 ## Øvelser til næste gang (som bliver om 3 uger)
 Dette er er stor opgave og kan indgå som en del i et samlet projekt om håndtering af labyrinter (altså som del af den endelige projekt).
