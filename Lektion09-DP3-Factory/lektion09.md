@@ -15,10 +15,10 @@ http://coding-geek.com/design-pattern-factory-patterns/
 (Jeg har lavet en [pdf af den side hvis du er mere til pdf](FactoryPatterns-CodingGeek.pdf))
 
 ## Øvelser på klassen
-Kommer søndag 
+Er desværre forsinket
 
 ## Øvelser til næste gang
-Kommer søndag
+Er desværre forsinket
 
 
 
