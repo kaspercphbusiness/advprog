@@ -15,10 +15,23 @@ http://coding-geek.com/design-pattern-factory-patterns/
 (Jeg har lavet en [pdf af den side hvis du er mere til pdf](FactoryPatterns-CodingGeek.pdf))
 
 ## Øvelser på klassen
-Kommer søndag 
+Vi skal først have nogle basale ting på plads, så vi starter med et andet sted.
+
+### Opgave 1
+Lad os antage at vi har brug for at lave en klasse der holder øje med hvor mange instanser der er lavet, og som give alle instanser et løbe nummer. F.eks. en klasse Customer, der har navn, email og telefon, men også et unikt løbenummer. 
+
+Lav en klasse der kan gemme denne information, og som sikrer at alle instanser for deres eget unikke løbenummer
+
+Opgaver - udvid med en metode der gør at vi kan finde et person med et givet telefon nummer.
+
+Opgave med singleton
+
+Opgave med Factory
+
+
 
 ## Øvelser til næste gang
-Kommer søndag
+
 
 
 
