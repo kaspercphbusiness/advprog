@@ -28,10 +28,12 @@ Opgave med singleton
 
 Opgave med Factory
 
-
-
 ## Øvelser til næste gang
 
+Er desværre forsinket
+
+## Øvelser til næste gang
+Er desværre forsinket
 
 
 
