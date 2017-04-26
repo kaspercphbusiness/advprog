@@ -14,6 +14,9 @@ http://coding-geek.com/design-pattern-factory-patterns/
 
 (Jeg har lavet en [pdf af den side hvis du er mere til pdf](FactoryPatterns-CodingGeek.pdf))
 
+## Gennemgang på klassen
+Jeg har skrevet [en kort note om de tre mønstre](SingletonPrototypeAndFactory.md) jeg regner med at gennemgå på klassen. Jeg regner ikke med at I har læst den inden torsdag (men I skal da være velkomne).
+
 ## Øvelser på klassen
 Vi skal først have nogle basale ting på plads, så vi starter med et andet sted.
 
