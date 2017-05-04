@@ -12,7 +12,7 @@ Programmet og rapporten afleveres på Wiseflow. Programmet skal være en zip kom
 
 Bemærk at termen “grundlag for eksamen” er en eksamensteknisk term der betyder at I ikke får selvstændig karakter for produktet, men at produktet indgår som en del af pensum. I praksis betyder det blot at vi kan snakke om det til eksamen.
 
-**Hvis du ikke selv har et projekt du står og brænder for, så kan du arbejde på [dette projekt]()**
+**Hvis du ikke selv har et projekt du står og brænder for, så kan du arbejde på [dette projekt](Projektopgave.md)**
 
 
 
@@ -26,7 +26,7 @@ Princippet i dine 10 minutter er at du vælger at fortælle om det i pensum (ink
 
 I resten af tiden snakker vi så om noget andet. Du kan her vælge om vi eksaminatorer bare foreslår et emne, eller om du gerne vil “trække et emne”. 
 
-- [Dette dokument lister en række emner som man kan trække](Eksamensspørgsmål.md). 
+- [Dette dokument lister en række emner som man kan trække](Eksamensspørgsmål.md). 
 
 Hvis vi eksaminatorer vælger, så vil vi vælge i situationen - enten at dreje snakken lidt i forhold til dit oplæg, eller vælge et helt andet emne. 
 
