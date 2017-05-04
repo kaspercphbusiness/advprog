@@ -1,6 +1,6 @@
 # Opgave til videregående programmering
 
-Afleveres inden: 10 januar 2017 kl. 23:59 på fronter.
+Afleveres inden: 30 maj 2017 kl. 23:59 på wiseflow.
 
 Denne opgave er beregnet på at bringe dig rundt om to centrale dele af pensum. **Bemærk:** Man gerne må lave sit eget projekt. I såfald vil jeg gerne lige have det til godkendelse inden i går alt for meget i gang.
 

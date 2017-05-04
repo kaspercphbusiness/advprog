@@ -56,6 +56,11 @@ Min plan er at vi prøver at debugge vores heap sort algoritme og vores HashMap 
 
 Der er et ret interessant værktøj på hjemmesiden "http://pythontutor.com" (som også har java, men ikke C#). Det viser i animeret udgave det med runtime. Vi vil kikke på det også.
 
+## Opgaver
+Vi vil på klassen arbejde med at [debugge dette program](https://github.com/cphbusinessAUVidrProg/uge10Debug01).
+
+Jeg vil foreslå at I øver jeg i debuggeren med at finde den fejl der er sneget sig ind i [dette program](https://github.com/cphbusinessAUVidrProg/uge10Debug02).
+
 
 
 

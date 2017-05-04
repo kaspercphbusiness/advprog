@@ -8,9 +8,13 @@ Rapporten skal dog som minimum indeholde:
 * Hvad programmet gør (hvis det ikke er standard projektet)
 * Der må gerne være en liste over hvilke dele af programmet du er særlig stolt af
 
-Programmet og rapporten afleveres på Moodle. Programmet skal være en zip komprimeret udgave af et visual studio projekt så vi nemt kan pakke det ud og køre det.
+Programmet og rapporten afleveres på Wiseflow. Programmet skal være en zip komprimeret udgave af et visual studio projekt så vi nemt kan pakke det ud og køre det.
 
 Bemærk at termen “grundlag for eksamen” er en eksamensteknisk term der betyder at I ikke får selvstændig karakter for produktet, men at produktet indgår som en del af pensum. I praksis betyder det blot at vi kan snakke om det til eksamen.
+
+**Hvis du ikke selv har et projekt du står og brænder for, så kan du arbejde på [dette projekt]()**
+
+
 
 ## Selve eksamen
 
