@@ -18,7 +18,8 @@ http://coding-geek.com/design-pattern-factory-patterns/
 Jeg har skrevet [en kort note om de tre mønstre](SingletonPrototypeAndFactory.md) jeg regner med at gennemgå på klassen. Jeg regner ikke med at I har læst den inden torsdag (men I skal da være velkomne).
 
 ## Øvelser på klassen
-Vi skal først have nogle basale ting på plads, så vi starter med et andet sted.
+
+### [Vejl. løsninger er lagt op](https://github.com/cphbusinessAUVidrProg/uge9PersonManager).
 
 ### Opgave 1
 Lad os antage at vi har brug for at lave en klasse der holder øje med hvor mange instanser der er lavet, og som give alle instanser et løbenummer. F.eks. en klasse `Customer`, der har navn, email og telefon, men også et unikt løbenummer. 
