@@ -13,6 +13,9 @@ Dette kapitel er ikke op-to-date med hensyn til visual studio, men er helt fylds
 
 Unit test er en teknologi der idag er meget moden og støttes på central vis i alle udviklingsværktøj.
 
+## Kode gennemgået på klassen
+Det eksempel jeg snakkede om på klassen var heap klassen (grundlæggende uge2 opgaven). Den [udgave der blev lavet på klassen er denne](https://github.com/cphbusinessAUVidrProg/uge2HeapsKoe/tree/tests).
+
 ## Øvelser
 I forbindelse med opgaven fra debugging lektionen var der "opstået" en del fejl i koden. Vi vil gerne være sikker på at det ikke sker igen. Vi vil derfor lave nogle tests der kan hjælpe os med at overbevise os om at der ikke er fejl i koden.
 
@@ -27,19 +30,19 @@ Lav nogle test der tester for om `get`og `set`virker.
 Igen, overvej hvor mange tests du mener er fyldest gørende.
 
 ### Opgave C
-Som det kan ses i de tests der skrives i opgave A og B, så starter alle de tests med at lave en instans af HashingDictionary. Omstrukturer dine tests så der bruges in `TestInitialize` som beskrevet nederst på side 369 i noten.
+Som det kan ses i de tests der skrives i opgave A og B, så starter alle de tests med at lave en instans af HashingDictionary. Omstrukturer dine tests så der bruges en `TestInitialize` som beskrevet nederst på side 369 i noten.
 
 ### Opgave D
 I test drevet udvikling (TDD) som beskrevet på side 359 og frem, er ideen at man skriver test metoder før man laver selve metoden. Som `Get` metoden er lavet nu, så kaster `Get` en exception hvis der ikke er en værdi det element man forsøger at finde. Ideen er at man skal checke med `hasKey` inden man forsøger at sige get:
 
 ```csharp
-if ( dict.hasKey("Jensne") )
+if ( dict.hasKey("Jensen") )
 	val = dict.Get("Jensen");
 else
 	val = -1; // eller en anden standardværdi
 ```
 
-man har nogle gange en metode `GetOrDefault(string key, int default)` der returnerer `default` hvis nøglen ikke er der.
+Man har nogle gange en metode `GetOrDefault(string key, int default)` der returnerer `default` hvis nøglen ikke er der.
 
 Skriv nogle test metoder der chekcer om denne (endnu ikke skrevne) metode virker. Bemærk, for at man kan oversætte dette program skal metoden inkluderes i interfacet `IVPDictionary`. Følg cirklen på side 360 omtil men ikke inkl. "Refactoring"
 
