@@ -1,3 +1,6 @@
+# [Eksamensplan](Eksamensplan.md)
+
+
 # Eksamens information
 
 Som grundlag for eksamen skal der afleveres et produkt og rapport på maks 10 sider (og gerne meget mindre). 
