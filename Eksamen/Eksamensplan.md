@@ -1,4 +1,5 @@
 ## Eksamensplan
+Eksamens afholdes i samme lokale som vi har været i hele semesteret (1.05).
 
 Tidspunkt | Person
 ---|---
